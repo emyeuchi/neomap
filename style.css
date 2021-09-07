@@ -70,6 +70,13 @@ nav {
   background: #4b0082;
   border: solid 3px white;
 }
+.box {
+  padding: 0.5em 1em;
+  margin: 2em 0;
+  color: white;
+  background: #4b0082;
+  border: solid 3px white;
+}
 footer {
   width: 100%;
   padding: 10px 0 10px;
