@@ -11,9 +11,15 @@ h3 { color: white !important }
     font-family: "mka";
     src: url("https://static.miraheze.org/umipediawiki/b/b9/176MKA_.ttf");  format('ttf');
 }
-
 .Mka {
     font-family: "mka";
+}
+@font-face {
+    font-family: "kktt";
+    src: url("https://static.miraheze.org/umipediawiki/a/af/851H-kktt_004.ttf");  format('ttf');
+}
+.Kktt {
+    font-family: "kktt";
 }
 /* ヘッダー*/
 * {
@@ -25,7 +31,7 @@ body {
   color: white;
   background: url(header.png);
   background-color: #4b0082;
-  font-family: mka, serif;
+  font-family: mka, kktt, serif;
 }
 header {
   width: 100%;
