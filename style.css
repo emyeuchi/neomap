@@ -8,12 +8,12 @@ h1 {
 h2 { color: white !important }
 h3 { color: white !important } 
 @font-face {
-    font-family: "176";
+    font-family: "mka";
     src: url("https://github.com/emyeuchi/neomap/blob/main/176MKA__.TTF");  format('ttf');
 }
 
-.176 {
-    font-family: "176";
+.Mka {
+    font-family: "mka";
 }
 /* ヘッダー*/
 * {
@@ -23,9 +23,9 @@ body {
   margin: 0;
   padding: 0;
   color: white;
-  background: url(berta_hestias.png);
+  background: url(header.png);
   background-color: #4b0082;
-  font-family: 176, sans-serif;
+  font-family: "mka", sans-serif;
 }
 header {
   width: 100%;
