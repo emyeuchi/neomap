@@ -78,6 +78,9 @@ nav {
   background: #4b0082;
   border: solid 3px white;
 }
+.worldmap {
+  width: 400px;
+}
 footer {
   width: 100%;
   padding: 10px 0 10px;
