@@ -3,6 +3,7 @@ body {
   padding: 0;
   color: white;
   background: url(qavaxa_flag.png);
+  background-size: 300px;
   background-color: #fca31e;
   font-family: qavaxa, serif;
 }
