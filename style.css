@@ -21,6 +21,15 @@ h3 { color: white !important }
 .Kktt {
     font-family: "kktt";
 }
+@font-face {
+    font-family: "Qavaxa";
+    src: url("https://static.miraheze.org/kakukokkawiki/8/89/Qavaxa.ttf");  format('ttf');
+}
+
+.Qavaxa {
+  font-family: "Qavaxa";
+  letter-spacing: -0.8px;
+}
 /* ヘッダー*/
 * {
   box-sizing: border-box;
