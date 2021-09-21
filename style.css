@@ -31,7 +31,7 @@ h3 { color: white !important }
 }
 @font-face {
     font-family: "Nang";
-    src: url("https://github.com/emyeuchi/neomap/blob/main/nangfont.ttf");  format('ttf');
+    src: url("https://static.miraheze.org/kakukokkawiki/4/4d/Nangfont.ttf");  format('ttf');
 }
 .Nang {
     font-family: "nang";
