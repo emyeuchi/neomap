@@ -8,6 +8,9 @@ body {
   font-family: serif;
   font-size: 
 }
-input_nang {
+nang_input {
   font-family: nang;
+  width:100%;
+  height: 100px;
+  gont-size: 200%;
 }
